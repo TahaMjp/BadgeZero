@@ -14,5 +14,3 @@ Designed for makers, hobbyists, and anyone who loves tiny electronics, this repo
 
 Feel free to build, modify, or contribute!  
 BadgeZero is designed to be **lightweight, battery-friendly, and portable** — clip it to your shirt, backpack, or pencil case and show off your mini animations. 🎨⚡
-
----
